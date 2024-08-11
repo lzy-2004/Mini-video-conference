@@ -5,10 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="1705ec9b-5425-4cb4-80a0-9e9985f5519e" name="更改" comment="">
-      <change afterPath="$PROJECT_DIR$/src/com/meetingClientV2/ClientUI.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/meetingClientV2/NetConn.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/meetingServerV2/NetServer.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/meetingServerV2/ServerUI.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/meetingServerV3/ProcCient.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
